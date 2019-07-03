@@ -1,0 +1,11 @@
+/Users/Lotus/Documents/PrimeFinder/obj/Debug/netcoreapp2.2/PrimeFinder.csprojAssemblyReference.cache
+/Users/Lotus/Documents/PrimeFinder/obj/Debug/netcoreapp2.2/PrimeFinder.csproj.CoreCompileInputs.cache
+/Users/Lotus/Documents/PrimeFinder/obj/Debug/netcoreapp2.2/PrimeFinder.AssemblyInfoInputs.cache
+/Users/Lotus/Documents/PrimeFinder/obj/Debug/netcoreapp2.2/PrimeFinder.AssemblyInfo.cs
+/Users/Lotus/Documents/PrimeFinder/bin/Debug/netcoreapp2.2/PrimeFinder.deps.json
+/Users/Lotus/Documents/PrimeFinder/bin/Debug/netcoreapp2.2/PrimeFinder.runtimeconfig.json
+/Users/Lotus/Documents/PrimeFinder/bin/Debug/netcoreapp2.2/PrimeFinder.runtimeconfig.dev.json
+/Users/Lotus/Documents/PrimeFinder/bin/Debug/netcoreapp2.2/PrimeFinder.dll
+/Users/Lotus/Documents/PrimeFinder/bin/Debug/netcoreapp2.2/PrimeFinder.pdb
+/Users/Lotus/Documents/PrimeFinder/obj/Debug/netcoreapp2.2/PrimeFinder.dll
+/Users/Lotus/Documents/PrimeFinder/obj/Debug/netcoreapp2.2/PrimeFinder.pdb
