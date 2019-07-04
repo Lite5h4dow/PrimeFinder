@@ -2,10 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
-// Check Examples
-
-// Compiler version 4.0, .NET Framework 4.5
-
 
 namespace Dcoder
 {
@@ -13,7 +9,6 @@ namespace Dcoder
     {
         public static void Main(string[] args)
         {
-            //Your code goes here
             int rangeMin = 0;
             int rangeMax = 100000;
 
